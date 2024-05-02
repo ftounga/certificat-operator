@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: operator
+  cloud:
+    kubernetes:
+      reload:
+        enabled: true
+      config:
+        enabled: true
+      secrets:
+        enabled: true
