@@ -1,5 +1,8 @@
-package com.certificat.operator;
+package com.certificat.operator.controller;
 
+import com.certificat.operator.model.CertificateDetails;
+import com.certificat.operator.model.V1Certificate;
+import com.certificat.operator.service.CertificateService;
 import io.kubernetes.client.extended.controller.reconciler.Result;
 import org.springframework.stereotype.Component;
 import org.springframework.boot.CommandLineRunner;

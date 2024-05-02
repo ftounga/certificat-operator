@@ -1,4 +1,4 @@
-package com.certificat.operator;
+package com.certificat.operator.model;
 
 public class V1CertificateSpec {
     private String domainName;

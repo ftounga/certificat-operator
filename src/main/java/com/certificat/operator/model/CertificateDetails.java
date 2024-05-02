@@ -1,4 +1,4 @@
-package com.certificat.operator;
+package com.certificat.operator.model;
 
 import io.kubernetes.client.openapi.models.V1ObjectMeta;
 

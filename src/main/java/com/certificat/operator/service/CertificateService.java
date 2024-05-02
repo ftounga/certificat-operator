@@ -1,5 +1,6 @@
-package com.certificat.operator;
+package com.certificat.operator.service;
 
+import com.certificat.operator.model.CertificateDetails;
 import org.springframework.stereotype.Service;
 
 @Service
